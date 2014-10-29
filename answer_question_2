@@ -1,1 +1,3 @@
-Upstream remote is usually used for fetching latest changes in Original remote repo
+Upstream, basically a tag for repo from where you do pull commits or push.
+But it's conventional to use upstream as a name/tag for original repo from where you fork and than clone that fork to 
+your local place.
