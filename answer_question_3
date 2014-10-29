@@ -1,1 +1,4 @@
-Branch is separate changes from main master. It's like parallel universe with the same files at initial creating of a branch, and after it goes it's own way. Branch can be merged with master if necessary.
+Branch is like different folder of initial branch, let say master branch. 
+It's like parallel universe with the same files at point of creating a branch, and after it can change dramatically. 
+It's kind of different version. Where you can try to implement new features or explore something else.
+Branch can be merged with master if necessary to accumulate changes.
